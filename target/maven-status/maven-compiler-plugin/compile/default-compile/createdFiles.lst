@@ -1,0 +1,4 @@
+com\navneet\spring\controllers\HomeController.class
+com\navneet\spring\Application.class
+com\navneet\spring\modals\LocationStats.class
+com\navneet\spring\services\CovidDataServices.class
